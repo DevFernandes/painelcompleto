@@ -1,0 +1,16 @@
+body {
+background-color: #1C1C1C;
+}
+div.card {
+    text-align: center;
+    font-family: inherit;
+    border: 5px solid #ffffff;
+    margin: 10px auto;
+    padding: 40px;
+}
+label.form-label {
+    color: white;
+}
+h2 {
+    color: white;
+}
